@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # Rescuee 🚨  
 **Type-Safe Error Handling & Universal Database Toolkit**
 
@@ -11,7 +7,6 @@
 > 🛠️ Your code’s emergency toolkit for errors, databases, and type-safe operations  
 > 💡 Works seamlessly with **React**, **Next.js**, **Vue**, and **Node.js**
 
----
 
 ### 📦 Installation
 
@@ -162,4 +157,3 @@ MIT © [BrittyTino](https://github.com/brittytino)
 
 > 💡 **Pro Tip:** Use Rescuee with **TypeScript** for full-stack type safety — from database to UI! 🛡️
 
-```
