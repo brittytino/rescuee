@@ -1,0 +1,56 @@
+{
+  "name": "rescuee",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brittytino/rescuee.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "prepublish": "npm run build"
+  },
+  "dependencies": {
+    "knex": "^2.5.1"
+  },
+  "peerDependencies": {
+    "mysql": "^2.18.1",
+    "next": "^13.0.0",
+    "pg": "^8.11.3",
+    "react": "^18.0.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/preset-react": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^14.2.1",
+    "@types/jest": "^29.5.11",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  },
+  "keywords": [
+    "error-handling",
+    "typescript",
+    "database",
+    "validation",
+    "react",
+    "nextjs",
+    "vue"
+  ],
+  "description": "A TypeScript library for handling errors in a database context, with support for React and Next.js.",
+  "author": "BrittyTino",
+  "license": "MIT"
+
+}
