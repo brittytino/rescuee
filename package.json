@@ -1,6 +1,6 @@
 {
   "name": "rescuee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -52,5 +52,4 @@
   "description": "A TypeScript library for handling errors in a database context, with support for React and Next.js.",
   "author": "BrittyTino",
   "license": "MIT"
-
 }
