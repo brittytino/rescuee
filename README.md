@@ -125,8 +125,8 @@ export default withValidation(userSchema)((req, res) => {
 ## 📚 Documentation
 
 Full API reference and developer guides available at:  
-🔗 **[tinobritty.tech/rescuee/docs](https://rescuee-docs.vercel.app)**  
-> *(Replace this link with your actual docs URL)*
+🔗 **[tinobritty.tech/rescuee/docs](https://tinobritty.tech)**  
+> 
 
 ---
 

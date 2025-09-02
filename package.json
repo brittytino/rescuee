@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/brittytino/rescuee.git"
+    "url": "git+https://github.com/brittytino/rescuee.git"
   },
   "scripts": {
     "build": "tsc",
@@ -50,6 +50,6 @@
     "vue"
   ],
   "description": "A TypeScript library for handling errors in a database context, with support for React and Next.js.",
-  "author": "BrittyTino",
+  "author": "brittytino",
   "license": "MIT"
 }
